@@ -15,6 +15,13 @@
         "tab": "Guides",
         "groups": [
           {
+            "group": "Main Navigation",
+            "pages": [
+              "essentials/settings",
+              "essentials/navigation"
+            ]
+          },
+          {
             "group": "Getting Started",
             "pages": [
               "intro-to-the-basics-of-trading",
@@ -22,13 +29,6 @@
               "intro-to-flow-analysis"
             ]
           },
-          // {
-          //   "group": "Customization",
-          //   "pages": [
-          //     "essentials/settings",
-          //     "essentials/navigation"
-          //   ]
-          // },
           {
             "group": "Writing content or contracts",
             "pages": [
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Stock Screener",
         "groups": [
           {
             "group": "API documentation",
