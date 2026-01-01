@@ -22,13 +22,13 @@
               "intro-to-flow-analysis"
             ]
           },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
+          // {
+          //   "group": "Customization",
+          //   "pages": [
+          //     "essentials/settings",
+          //     "essentials/navigation"
+          //   ]
+          // },
           {
             "group": "Writing content or contracts",
             "pages": [
