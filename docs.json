@@ -17,9 +17,9 @@
           {
             "group": "Getting Started",
             "pages": [
-              "Intro to the Basics of Trading",
-              "Intro to Technical Analsysis",
-              "Intro to Flow Analysis"
+              "intro-to-the-basics-of-trading",
+              "intro-to-technical-analsysis",
+              "intro-to-flow-analysis"
             ]
           },
           {
