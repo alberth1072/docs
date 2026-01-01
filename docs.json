@@ -1,12 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Jag's FnF (Friends and Family Group)",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#62ccff",
+    "light": "#2299eb",
+    "dark": "#063577"
   },
+
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
@@ -14,11 +15,11 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Getting Started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "Intro to the Basics of Trading",
+              "Intro to Technical Analsysis",
+              "Intro to Flow Analysis"
             ]
           },
           {
@@ -29,7 +30,7 @@
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Writing content or contracts",
             "pages": [
               "essentials/markdown",
               "essentials/code",
